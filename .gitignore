@@ -1,0 +1,7 @@
+/build/
+/brag-output/
+/.claude-flow/
+/.claude/
+.DS_Store
+xcuserdata/
+.swiftpm/
