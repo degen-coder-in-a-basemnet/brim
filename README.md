@@ -4,9 +4,9 @@ A small black notch on the edge of your screen that shows how much of your AI
 coding limits you have used. Private and local-first: by default it reads a few
 files on your Mac and opens no network connections at all.
 
-[![Brim: the notch unfolds into usage rings, a card shows Claude's limits, a ring turns amber while Claude waits for you, and a double-click brings its terminal back](docs/demo.gif)](docs/demo.mp4)
+![Brim: the notch unfolds into usage rings, a card shows Claude's limits, a ring turns amber while Claude waits for you, and a double-click brings its terminal back](docs/demo.gif)
 
-[Watch it with sound](docs/demo.mp4) (22 s). The figures in it are Brim's demo data.
+[Download the full video with sound](docs/demo.mp4?raw=true) (MP4, 4.4 MB, 22 s). The figures in it are Brim's demo data.
 
 Brim recreates the look and feel of [Codenotch](https://github.com/vinzdg/codenotch)
 by Vinz (MIT). It has its own name, bundle identifier (`local.brim.Brim`), icon, ad-hoc
